@@ -3,4 +3,5 @@ echo "what is your name"
 read name
 echo "enter your password"
 read -s password
-
+echo " welcome $name to Tesla"
+echo "$name how can i help you today"
