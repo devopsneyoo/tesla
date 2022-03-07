@@ -6,3 +6,4 @@ read -s password
 echo " welcome $name to Tesla"
 echo "$name how can i help you today"
 echo "thank you $name"
+echo "it shall be done"
